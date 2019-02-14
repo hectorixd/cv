@@ -1,0 +1,25 @@
+{
+  "name": "curriculum",
+  "version": "1.0.0",
+  "description": "curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorixd/cv.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Hector Trinidad <hmtv16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorixd/cv/issues"
+  },
+  "homepage": "https://github.com/hectorixd/cv#readme",
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
+}
